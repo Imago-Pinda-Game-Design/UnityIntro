@@ -4,3 +4,4 @@
 ### Membros
 Instrutor: **Nemo**
 Alunos:
+- Vitoria
